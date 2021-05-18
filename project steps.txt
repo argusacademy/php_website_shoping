@@ -1,0 +1,23 @@
+<!--
+1) database create
+2) connection page 
+3) table create
+[ registration user , product table , bill table ]  
+4) form -> user registration page  (delete & display)
+5) form  -> product insert page (delete & display)
+6) form  -> bill page (delete & display)
+
+								login page 
+									|
+								checkpage
+									|
+	admin page						|			user
+show all user +delete				|			show self detail
+insert product + delete + show 		|			show all product + bill
+show all bill + delete				|			show self bill
+
+
+index page
+contact page 
+
+!-->
